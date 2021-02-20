@@ -1,0 +1,10 @@
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe.config
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csprojAssemblyReference.cache
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.exe
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\bin\Debug\GameOfLife.dll
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\bin\Debug\GameOfLife.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CopyComplete

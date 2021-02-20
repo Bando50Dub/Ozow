@@ -1,7 +1,9 @@
-﻿using System;
+﻿using SortEngine;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace Sorting
@@ -10,11 +12,13 @@ namespace Sorting
     {
         static void Main(string[] args)
         {
-            Sort mySort = new Sort();
-            var input = Console.ReadLine();
+            Console.WriteLine("Please Enter Text To Sort: ");
+            string text = Console.ReadLine();
 
-            var sortedString = mySort.SortAlphabetical(input.ToLower());
+            Sort sortter = new Sort();
+            var sortedString = sortter.SortText(text);
             Console.WriteLine(sortedString);
+            Console.WriteLine("Press any key to continue..");
             Console.Read();
         }
     }

@@ -1,0 +1,5 @@
+C:\VSpace\Prototypes\Assessments\Ozow\SortEngine\bin\Debug\SortEngine.dll
+C:\VSpace\Prototypes\Assessments\Ozow\SortEngine\bin\Debug\SortEngine.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\SortEngine\obj\Debug\SortEngine.csproj.CoreCompileInputs.cache
+C:\VSpace\Prototypes\Assessments\Ozow\SortEngine\obj\Debug\SortEngine.dll
+C:\VSpace\Prototypes\Assessments\Ozow\SortEngine\obj\Debug\SortEngine.pdb

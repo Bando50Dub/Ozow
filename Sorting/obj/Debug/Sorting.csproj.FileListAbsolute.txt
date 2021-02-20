@@ -1,0 +1,10 @@
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\bin\Debug\Sorting.exe.config
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\bin\Debug\Sorting.exe
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\bin\Debug\Sorting.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\bin\Debug\SortEngine.dll
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\bin\Debug\SortEngine.pdb
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\obj\Debug\Sorting.csproj.CopyComplete
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\obj\Debug\Sorting.exe
+C:\VSpace\Prototypes\Assessments\Ozow\Sorting\obj\Debug\Sorting.pdb
